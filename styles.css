@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+#name-container {
+  margin-top: 20px;
+}
+
+#names-list {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
